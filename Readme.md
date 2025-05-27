@@ -1,67 +1,63 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=27F7D4&center=true&vCenter=true&width=435&lines=Hi+I'm+Animesh+%F0%9F%91%8B;Data+Whisperer+%F0%9F%8C%9F;NLP+%7C+AI+%7C+Storytelling+with+Data;Always+Building+Something+Meaningful" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">✨ Hey, I'm Animesh 👨‍💻</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBMuSgC5SeIDw2U/giphy.gif" width="120px" height="120px"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70D5A&center=true&vCenter=true&width=435&lines=Data+Explorer;ML+Tinkerer;Insight+Storyteller;Clean+Code+Advocate;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🧭 About Me
+
+Hi there! I’m Animesh — a curious data explorer who enjoys uncovering patterns, decoding complexity, and building systems that don’t just run, but **resonate**.
+
+- 🎯 Passionate about: NLP, Ethical AI, Data Visualisation, Real-time ML
+- 🎨 Designing meaningful apps for real-world impact (like protecting kids online)
+- 🔍 Always chasing: That "a-ha" insight moment
+
+---
+
+## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ETHICAL%20AI-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CREATIVE+THINKER-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
 </p>
 
-📚 A data science brain with a storytelling heart  
-🧠 Building tech that solves, supports, and *understands*  
-🧪 Blending code + empathy to craft purposeful digital experiences  
-🎮 Believer of code that teaches, heals, and sometimes — makes kids laugh
-
 ---
 
-## 🧠 My Superpowers
+## 🚀 Highlighted Projects
 
-🛠️ **Skills**: Machine Learning • NLP • PySpark • SQL • Data Viz  
-🎨 **Soft Powers**: Creative Thinking • Empathy in UX • Ethical Design  
-⚡ **Interests**: Mental Health Tech • EdTech • Real-time ML  
-🕹️ **Hobby Zone**: Sketching, Brainstorming, Debugging Life 🧘
-
----
-
-## 🚀 Featured Labs
-
-<details open>
-  <summary>🛡️ <b>CyberBuddy AI</b></summary>
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80">
+<details>
+  <summary><b>👁️ CyberBuddy AI</b></summary>
   <p>
-    Empowering children to detect, understand, and respond to cyberbullying 🧠💬  
-    <code>Emotion-Aware AI</code> • <code>Transformer Models</code> • <code>Flask + MySQL</code>  
-    👉 <a href="https://github.com/Anni2612/cyberbuddy-ai">Explore the project</a>
+    <br>
+    🛡️ A kid-friendly app that detects and explains cyberbullying using NLP + emotional insight  
+    🔧 <code>Transformers</code> • <code>Flask</code> • <code>Emotion AI</code>  
+    🔗 <a href="https://github.com/Anni2612/cyberbuddy-ai">View Project</a>
   </p>
 </details>
 
 <details>
-  <summary>📦 <b>Academic Analytics Archive</b></summary>
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="80">
+  <summary><b>📊 Academic Analytics Archive</b></summary>
   <p>
-    Neatly organized, semester-wise portfolio of data projects at Monash  
-    <code>Jupyter</code> • <code>SQL</code> • <code>R</code>  
-    👉 <a href="https://github.com/Anni2612/academic-analytics-archive">View Archive</a>
+    <br>
+    📚 A cleanly organized portfolio of Monash Data Science projects across all semesters  
+    🔧 <code>SQL</code> • <code>Jupyter</code> • <code>R</code> • <code>Storytelling</code>  
+    🔗 <a href="https://github.com/Anni2612/academic-analytics-archive">View Repository</a>
   </p>
 </details>
 
 <details>
-  <summary>⚡ <b>Fraud Detection Stream</b></summary>
-  <img src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" width="80">
+  <summary><b>⚡ Fraud Detection Stream</b></summary>
   <p>
-    Real-time fraud detection with PySpark and Kafka 🔍  
-    <code>Streaming ML</code> • <code>Big Data Engineering</code>  
-    👉 <a href="https://github.com/Anni2612/fraud-detection-stream">Check the code</a>
+    <br>
+    💸 Detects frauds in real time using streaming ML pipelines  
+    🔧 <code>PySpark</code> • <code>Kafka</code> • <code>MLlib</code>  
+    🔗 <a href="https://github.com/Anni2612/fraud-detection-stream">View Code</a>
   </p>
 </details>
 
@@ -70,30 +66,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anni2612&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anni2612&show_icons=true&theme=tokyonight&count_private=true" width="47%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anni2612&theme=tokyonight" width="47%">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anni2612&theme=github_dark" width="95%">
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/animesh-d-525826104/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Anni2612" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-DA5B38?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Anni2612?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/My Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+> ✨ “Great code doesn’t just solve problems — it speaks clearly, acts kindly, and inspires curiosity.”
