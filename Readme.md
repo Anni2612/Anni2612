@@ -11,13 +11,13 @@
 ## 💫 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Ethical_AI-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-NLP-brown?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Creative+Thinker-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ETHICAL%20AI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CREATIVE+THINKER-orange?style=for-the-badge"/>
 </p>
 
-🎓 A data science brain with a storytelling heart  
+📚 A data science brain with a storytelling heart  
 🧠 Building tech that solves, supports, and *understands*  
 🧪 Blending code + empathy to craft purposeful digital experiences  
 🎮 Believer of code that teaches, heals, and sometimes — makes kids laugh
@@ -26,11 +26,14 @@
 
 ## 🧠 My Superpowers
 
-```txt
-🛠️ Skills        : Machine Learning • NLP • PySpark • SQL • Data Viz
-🎨 Soft Powers   : Creative Thinking • Empathy in UX • Ethical Design
-⚡ Interests     : Mental Health Tech • EdTech • Real-time ML
-🕹️ Hobby Zone   : Sketching, Brainstorming, Debugging Life 🧘
+🛠️ **Skills**: Machine Learning • NLP • PySpark • SQL • Data Viz  
+🎨 **Soft Powers**: Creative Thinking • Empathy in UX • Ethical Design  
+⚡ **Interests**: Mental Health Tech • EdTech • Real-time ML  
+🕹️ **Hobby Zone**: Sketching, Brainstorming, Debugging Life 🧘
+
+---
+
+## 🚀 Featured Labs
 
 <details open>
   <summary>🛡️ <b>CyberBuddy AI</b></summary>
@@ -41,6 +44,7 @@
     👉 <a href="https://github.com/Anni2612/cyberbuddy-ai">Explore the project</a>
   </p>
 </details>
+
 <details>
   <summary>📦 <b>Academic Analytics Archive</b></summary>
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="80">
@@ -50,6 +54,7 @@
     👉 <a href="https://github.com/Anni2612/academic-analytics-archive">View Archive</a>
   </p>
 </details>
+
 <details>
   <summary>⚡ <b>Fraud Detection Stream</b></summary>
   <img src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" width="80">
@@ -59,12 +64,22 @@
     👉 <a href="https://github.com/Anni2612/fraud-detection-stream">Check the code</a>
   </p>
 </details>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anni2612&show_icons=true&theme=tokyonight" width="47%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anni2612&theme=tokyonight" width="47%">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anni2612&theme=github_dark" width="95%">
 </p>
+
+---
+
+## 🌐 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/animesh-d-525826104/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -76,9 +91,9 @@
     <img src="https://img.shields.io/badge/Email-DA5B38?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
-
-
