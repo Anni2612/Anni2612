@@ -1,1 +1,27 @@
-Readme.txt
+<h1 align="center">Hey 👋 I'm Animesh</h1>
+
+<p align="center">
+  <em>🚀 Data Explorer | 💻 Developer | 📊 Storyteller through Numbers</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+Hi! I’m Animesh — a curious mind who loves turning real-world problems into clean, scalable solutions through thoughtful code and data-driven insights.  
+I'm passionate about building intelligent systems that not only analyze but **empathize**, especially in spaces like online safety and ethical AI.
+
+- 🧠 **Interests**: Machine Learning, NLP, Real-Time Data, Data Ethics, Visual Analytics
+- 🧑‍🎓 **Currently mastering**: PySpark, Transformers, Streaming Pipelines
+- 🌍 **Based in**: Australia | 🕸️ Working across time zones & ideas
+- 🎯 **Fun Fact**: My code sometimes has more emojis than bugs 🐛🤖
+
+---
+
+### 🔧 Tech Stack
+
+```python
+Languages  = ["Python", "R", "SQL", "JavaScript"]
+Tools      = ["Jupyter", "VSCode", "RStudio", "Git", "MySQL", "MongoDB"]
+Libraries  = ["Pandas", "Scikit-learn", "Spark", "Transformers", "Matplotlib", "ggplot2"]
+Cloud      = ["AWS RDS", "Heroku", "Netlify"]
