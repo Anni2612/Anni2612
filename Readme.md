@@ -1,17 +1,20 @@
-<img width="1223" alt="image" src="https://github.com/user-attachments/assets/8491fbb3-1ef1-403f-aebd-6b7e23e8e3e5" /><h1 align="center">✨ Hey, I'm Animesh 👨‍💻</h1>
+<p align="center">
+  <h1 style="font-size: 40px;">✨ Hey, I'm Animesh </h1>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70D5A&center=true&vCenter=true&width=435&lines=Data+Explorer;ML+Tinkerer;Insight+Storyteller;Clean+Code+Advocate;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
----
+
 
 ## 🧭 About Me <img src="https://media.giphy.com/media/3o7aD4VrGn8wQuk7DO/giphy.gif" width="40"/>
 
-Hi there! I’m Animesh — a curious data explorer who enjoys uncovering patterns, decoding complexity, and building systems that don’t just run, but **resonate**.
+Hi there! I’m — a curious data explorer who enjoys uncovering patterns, decoding complexity, and building systems that don’t just run, but **resonate**.
 
 - 🎯 Passionate about: NLP, Ethical AI, Data Visualisation, Real-time ML  
 - 🎨 Designing meaningful apps for real-world impact (like protecting kids online)  
@@ -21,7 +24,7 @@ Hi there! I’m Animesh — a curious data explorer who enjoys uncovering patter
 ## 💼 My Tech Toolbox
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
@@ -89,10 +92,9 @@ Hi there! I’m Animesh — a curious data explorer who enjoys uncovering patter
   <img src="https://github-readme-stats.vercel.app/api?username=Anni2612&show_icons=true&theme=tokyonight&count_private=true" width="47%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anni2612&theme=tokyonight" width="47%">
 </p>
+<!-- Profile Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anni2612&label=Profile+Visitors&color=brightgreen" alt="visitor badge"/>
-  <br>
-  <img src="https://cr-ldev.vercel.app/api/visits/map/Anni2612" width="75%" />
+  <img src="https://komarev.com/ghpvc/?username=Anni2612&label=Profile+Visitors&color=brightgreen" alt="Visitor Counter Badge" />
 </p>
 
 ---
@@ -120,18 +122,4 @@ Hi there! I’m Animesh — a curious data explorer who enjoys uncovering patter
 </p>
 
 
-```mermaid
-journey
-    title Animesh's Growth as a Data Scientist
-    section 2022 – Foundations
-      🧮 Learned Python & SQL : 5
-      📊 First data viz with R & Matplotlib : 4
-    section 2023 – Experimentation
-      🤖 Built basic ML models : 4
-      🗃️ Cleaned massive datasets : 5
-    section 2024 – Real Projects
-      🚀 NLP-based Capstone on Cyberbullying : 5
-      🔥 Real-time ML with PySpark + Kafka : 5
-    section 2025 – Career Ready
-      📁 Portfolio and GitHub polish : 4
-      💼 Actively collaborating & applying : 5
+
