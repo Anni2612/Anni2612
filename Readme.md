@@ -1,10 +1,17 @@
 <p align="center">
-  <h1 style="font-size: 40px;">✨ Hey, I'm Animesh </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00f5d4&center=true&vCenter=true&width=500&lines=✨+Hey,+I'm+Animesh" alt="Typing header" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70D5A&center=true&vCenter=true&width=435&lines=Data+Explorer;ML+Tinkerer;Insight+Storyteller;Clean+Code+Advocate;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Data_Explorer-%2300f5d4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/ML_Tinkerer-%239b5de5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Insight_Storyteller-%23ff6f61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always_Learning-ffd166?style=for-the-badge" />
 </p>
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
