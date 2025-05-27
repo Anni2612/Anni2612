@@ -11,17 +11,47 @@
 Hi! I’m Animesh — a curious mind who loves turning real-world problems into clean, scalable solutions through thoughtful code and data-driven insights.  
 I'm passionate about building intelligent systems that not only analyze but **empathize**, especially in spaces like online safety and ethical AI.
 
-- 🧠 **Interests**: Machine Learning, NLP, Real-Time Data, Data Ethics, Visual Analytics
-- 🧑‍🎓 **Currently mastering**: PySpark, Transformers, Streaming Pipelines
-- 🌍 **Based in**: Australia | 🕸️ Working across time zones & ideas
-- 🎯 **Fun Fact**: My code sometimes has more emojis than bugs 🐛🤖
+- 🍄 **Interests**: Machine Learning, NLP, Real-Time Data, Data Ethics, Visual Analytics  
+- 🔭 **Currently mastering**: PySpark, Transformers, Streaming Pipelines  
+- 🌍 **Based in**: Australia | 🕸️ Working across time zones & ideas  
+- 🤓 **Fun Fact**: My code sometimes has more emojis than bugs 🐛💻
 
 ---
 
 ### 🔧 Tech Stack
 
-```python
-Languages  = ["Python", "R", "SQL", "JavaScript"]
-Tools      = ["Jupyter", "VSCode", "RStudio", "Git", "MySQL", "MongoDB"]
-Libraries  = ["Pandas", "Scikit-learn", "Spark", "Transformers", "Matplotlib", "ggplot2"]
-Cloud      = ["AWS RDS", "Heroku", "Netlify"]
+- 🐍 **Languages**: Python, R, SQL, JavaScript  
+- ⚙️ **Tools**: Jupyter, VSCode, RStudio, Git, MySQL, MongoDB  
+- 📚 **Libraries**: Pandas, Scikit-learn, Spark, Transformers, Matplotlib, ggplot2  
+- ☁️ **Cloud & Deployment**: AWS RDS, Heroku, Netlify  
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [CyberBuddy AI](https://github.com/Anni2612/cyberbuddy-ai) | Child-focused cyberbullying detector with emotion-aware feedback | `NLP`, `Transformers`, `Flask`, `MySQL` |
+| [Academic Analytics Archive](https://github.com/Anni2612/academic-analytics-archive) | Monash Data Science Portfolio | `Jupyter`, `SQL`, `R`, `DataViz` |
+| [Fraud Detection Stream](https://github.com/Anni2612/fraud-detection-stream) | Real-time fraud detection using PySpark & MLlib | `PySpark`, `Kafka`, `Streaming` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anni2612&show_icons=true&theme=dark&count_private=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anni2612&theme=dark" height="150">
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/animesh-d-525826104/)  
+- 🧠 [Portfolio](#) *(coming soon)*  
+- 📨 Open to collaborations, side projects, or just a good meme!
+
+---
+
+> *“Data isn’t just numbers — it’s a story waiting to be told.”*
