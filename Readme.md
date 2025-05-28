@@ -59,11 +59,11 @@ Hi there! I’m — a curious data explorer who enjoys uncovering patterns, deco
   <summary><b>👁️ CyberBuddy AI</b></summary>
   <p>
     <br>
-    <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="70"/>
+    <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="120"/>
     <br><br>
     🛡️ A kid-friendly app that detects and explains cyberbullying using NLP + emotional insight  
     🔧 <code>Transformers</code> • <code>Flask</code> • <code>Emotion AI</code>  
-    🔗 <a href="https://github.com/Anni2612/cyberbuddy-ai">View Project</a>
+    🔗 <a href="https://shieldspace.games/">View Project</a>
   </p>
 </details>
 
@@ -71,7 +71,7 @@ Hi there! I’m — a curious data explorer who enjoys uncovering patterns, deco
   <summary><b>📊 Academic Analytics Archive</b></summary>
   <p>
     <br>
-    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="70"/>
+    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120"/>
     <br><br>
     📚 A cleanly organized portfolio of Monash Data Science projects across all semesters  
     🔧 <code>SQL</code> • <code>Jupyter</code> • <code>R</code> • <code>Storytelling</code>  
@@ -80,17 +80,16 @@ Hi there! I’m — a curious data explorer who enjoys uncovering patterns, deco
 </details>
 
 <details>
-  <summary><b>⚡ Fraud Detection Stream</b></summary>
+  <summary><b>🥊 UFC Analytics Dashboard</b></summary>
   <p>
     <br>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+    <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="120"/>
     <br><br>
-    💸 Detects frauds in real time using streaming ML pipelines  
-    🔧 <code>PySpark</code> • <code>Kafka</code> • <code>MLlib</code>  
-    🔗 <a href="https://github.com/Anni2612/fraud-detection-stream">View Code</a>
+    💡 An interactive dashboard built using R and Shiny to explore trends, outcomes, and fighter stats in the UFC  
+    🔧 <code>R</code> • <code>Shiny</code> • <code>Data Visualization</code>  
+    🔗 <a href="https://animeshdubey.shinyapps.io/UFC_Analysis/" target="_blank">Try the Live Dashboard</a>
   </p>
 </details>
-
 ---
 
 ## 📊 GitHub Stats <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40"/>
