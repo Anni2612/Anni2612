@@ -114,6 +114,9 @@ Hi there! I’m — a curious data explorer who enjoys uncovering patterns, deco
   <a href="https://github.com/Anni2612?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/My Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.animesh.fyi" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23ff7f50?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 ---
